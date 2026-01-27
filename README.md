@@ -1,6 +1,6 @@
 # Linux Community Gamejolt Rules
 
-Rules:
+# Rules:
 
 Only in connection with Linux posts
 
