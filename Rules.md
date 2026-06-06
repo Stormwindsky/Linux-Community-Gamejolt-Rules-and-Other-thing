@@ -8,6 +8,10 @@ Do not mention FreeBSD & Windows & Mac OS because it is not Linux
 
 unless it is in reference to an example with Linux, for example Linux vs. FreeBSD
 
+Please note that Android is permitted in this community because, even though it isn’t exactly the same thing, the Android kernel is a fork—that is, a modified version of the Linux kernel.
+
+Therefore, I allow it as a form of Linux, but this is the only exception, provided that it is a kernel based on the Linux kernel.
+
 You are entitled to your opinions if they are expressed appropriately.
 
 not like this: THIS THE WORST...
