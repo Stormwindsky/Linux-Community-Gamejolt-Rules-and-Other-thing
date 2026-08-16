@@ -25,3 +25,7 @@ Rules for moderators:
 The Linux News should only be related to Linux and should not have an advertising tone such as “THIS NEW LINUX IS BETTER THAN WINDOWS.” The article should be a summary with sources (if possible).
 
 Fake posts are not allowed, except on April 1st, but only for moderators. AND IF YOU ARE A MODERATOR, THE ONLY CHANNEL WHERE APRIL FOOL'S DAY PRANKS ARE ALLOWED IS: Announcement of this community
+
+As of August 16, 2026, it is prohibited to post a link from x.com (Twitter), even for sourcing purposes, unless xcancel.com is used.
+
+This is because X now requires users to create an account to verify information, which we no longer tolerate for X due to choices we find inappropriate and unlawful.
