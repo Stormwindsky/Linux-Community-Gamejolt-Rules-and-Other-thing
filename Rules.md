@@ -29,3 +29,7 @@ Fake posts are not allowed, except on April 1st, but only for moderators. AND IF
 As of August 16, 2026, it is prohibited to post a link from x.com (Twitter), even for sourcing purposes, unless xcancel.com is used.
 
 This is because X now requires users to create an account to verify information, which we no longer tolerate for X due to choices we find inappropriate and unlawful.
+
+A ban on posting links to Trump's official website and, temporarily, to U.S. government websites until Trump is no longer in power and the Republican Party is no longer considered a threat to democracy, etc.
+
+However, websites linked to Trump and his family members—except for those who oppose Trump but are part of his family—will be banned permanently.
